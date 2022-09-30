@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.251ac9dc.css",
+    "main.css": "/portfolio/static/css/main.1512bae5.css",
     "main.js": "/portfolio/static/js/main.e3b35f31.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/SOLUTEC.pdf": "/portfolio/static/media/SOLUTEC.18577cd2397c61469c6d.pdf",
@@ -12,12 +12,12 @@
     "static/media/Capgemini.png": "/portfolio/static/media/Capgemini.53bffb5ad4eb0f3a6ef3.png",
     "static/media/rm2.png": "/portfolio/static/media/rm2.140cfec8ff53ea797627.png",
     "index.html": "/portfolio/index.html",
-    "main.251ac9dc.css.map": "/portfolio/static/css/main.251ac9dc.css.map",
+    "main.1512bae5.css.map": "/portfolio/static/css/main.1512bae5.css.map",
     "main.e3b35f31.js.map": "/portfolio/static/js/main.e3b35f31.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.251ac9dc.css",
+    "static/css/main.1512bae5.css",
     "static/js/main.e3b35f31.js"
   ]
 }
